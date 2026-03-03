@@ -1,0 +1,9 @@
+Swimming,Learn to swim,Health,45
+Reading,Read a book,Education,120
+Writing,Write a story,Education,90
+Photography,Learn photography techniques,Art,60
+Basket,Sports,Health,90
+Yoga,Relax,Health,45
+Painting,Learn watercolor techniques,Art,90
+Running,Improve your stamina,Health,30
+Dancing,Learn salsa,Art,50
